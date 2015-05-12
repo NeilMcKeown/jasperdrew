@@ -20,7 +20,7 @@
     background: #1F1F1F;
     color: white;
     padding: 11px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 .ms-videogallery-template .ms-layer.video-author {
