@@ -12,20 +12,21 @@
 }
 
 .ms-videogallery-template .ms-layer {
-	font-family: "Lato",sans-serif;
+	font-family: "Georgia",sans-serif;
 }
 
 .ms-videogallery-template .ms-layer.video-title {
-    font-weight: 300;
-    background: #1F1F1F;
-    color: white;
+    font-weight: 500;
+    background: #333;
+    color: #ccb3c3;
     padding: 11px;
     /*text-transform: uppercase;*/
 }
 
 .ms-videogallery-template .ms-layer.video-author {
-    background: #FFFFFF;
+    background: #000;
     padding: 4px 10px;
+	opacity: 0.8;
     font-size: 14px;
 }
 
@@ -47,8 +48,8 @@
 	float: left;
 
 	font-family: "Helvetica Neue", sans-serif;
-	text-shadow: 0 1px 1px white;
-	color: #fff;
+	text-shadow: 0 1px 1px black;
+	color: #ccb3c3;
 	font-weight: 300;
 
 	position: relative;
